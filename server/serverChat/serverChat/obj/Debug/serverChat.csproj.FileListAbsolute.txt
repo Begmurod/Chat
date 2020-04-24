@@ -1,0 +1,27 @@
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\antiKyn\Desktop\work\video\chat\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\server\serverChat\serverChat\obj\Debug\serverChat.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\server\serverChat\serverChat\obj\Debug\serverChat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+E:\Рабочий стол\MVS C#. Чат\Чат\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+E:\Рабочий стол\MVS C#. Чат\Чат\server\serverChat\serverChat\bin\Debug\serverChat.exe
+E:\Рабочий стол\MVS C#. Чат\Чат\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+E:\Рабочий стол\MVS C#. Чат\Чат\server\serverChat\serverChat\obj\Debug\serverChat.csprojAssemblyReference.cache
+E:\Рабочий стол\MVS C#. Чат\Чат\server\serverChat\serverChat\obj\Debug\serverChat.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\MVS C#. Чат\Чат\server\serverChat\serverChat\obj\Debug\serverChat.exe
+E:\Рабочий стол\MVS C#. Чат\Чат\server\serverChat\serverChat\obj\Debug\serverChat.pdb
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\server\serverChat\serverChat\bin\Debug\serverChat.exe.config
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\server\serverChat\serverChat\bin\Debug\serverChat.exe
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\server\serverChat\serverChat\bin\Debug\serverChat.pdb
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\server\serverChat\serverChat\obj\Debug\serverChat.csprojAssemblyReference.cache
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\server\serverChat\serverChat\obj\Debug\serverChat.csproj.CoreCompileInputs.cache
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\server\serverChat\serverChat\obj\Debug\serverChat.exe
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\server\serverChat\serverChat\obj\Debug\serverChat.pdb

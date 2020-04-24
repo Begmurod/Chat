@@ -1,0 +1,39 @@
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\antiKyn\Desktop\work\video\chat\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\obj\Debug\chatClient.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\Lenovo\Documents\Папка\Куделин\Чат\Исходники\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\bin\Debug\chatClient.exe
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\obj\Debug\chatClient.csprojAssemblyReference.cache
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.cache
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\obj\Debug\chatClient.exe
+E:\Рабочий стол\MVS C#. Чат\Чат\client\chatClient\chatClient\obj\Debug\chatClient.pdb
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\bin\Debug\chatClient.exe.config
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\bin\Debug\chatClient.exe
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\bin\Debug\chatClient.pdb
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\obj\Debug\chatClient.csprojAssemblyReference.cache
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\obj\Debug\chatClient.chatForm.resources
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\obj\Debug\chatClient.Properties.Resources.resources
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\obj\Debug\chatClient.csproj.GenerateResource.cache
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\obj\Debug\chatClient.csproj.CoreCompileInputs.cache
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\obj\Debug\chatClient.exe
+C:\Users\begmu\OneDrive\Рабочий стол\Чат\client\chatClient\chatClient\obj\Debug\chatClient.pdb
